@@ -9,10 +9,12 @@
 
 TBitField::TBitField(int len)
 {
+	//реализация 
 }
 
 TBitField::TBitField(const TBitField &bf) // конструктор копирования
 {
+	//реализация
 }
 
 TBitField::~TBitField()
